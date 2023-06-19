@@ -5,6 +5,9 @@ Welcome to SpringLearningHub. Contains some solved exercises about tests and vid
 2. Install the required dependencies using Maven: `./mvnw install`
 3. Run the application: `/mvnw spring-boot:run`
 
+##Project progress
+You can see the progress here [https://wmvasq1.atlassian.net/jira/software/projects/SPRIN/boards/2/roadmap?shared=&atlOrigin=eyJpIjoiMWI3N2IyZGE2NTUxNDY1N2IwZTViOWRjYWE1NjU0NTgiLCJwIjoiaiJ9]
+
 ## Usage
 
 Once the application is up and running, you can access it at `http://localhost:8080`. The Spring Pet Clinic provides the following functionality:
