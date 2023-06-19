@@ -6,7 +6,7 @@ Welcome to SpringLearningHub. Contains some solved exercises about tests and vid
 3. Run the application: `/mvnw spring-boot:run`
 
 ## Project progress
-You can see the progress here [https://wmvasq1.atlassian.net/jira/software/projects/SPRIN/boards/2/roadmap?shared=&atlOrigin=eyJpIjoiMWI3N2IyZGE2NTUxNDY1N2IwZTViOWRjYWE1NjU0NTgiLCJwIjoiaiJ9]
+You can see the progress here [https://wmvasq1.atlassian.net/jira/software/projects/SPRIN/boards/2/roadmap?shared=&atlOrigin=eyJpIjoiMWI3N2IyZGE2NTUxNDY1N2IwZTViOWRjYWE1NjU0NTgiLCJwIjoiaiJ9](enlace de Jira)
 
 ## Usage
 
