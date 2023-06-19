@@ -6,11 +6,11 @@ Welcome to SpringLearningHub. Contains some solved exercises about tests and vid
 3. Run the application: `/mvnw spring-boot:run`
 
 ## Project progress
-You can see the progress here [enlace de Jira](https://wmvasq1.atlassian.net/jira/software/projects/SPRIN/boards/2/roadmap?shared=&atlOrigin=eyJpIjoiMWI3N2IyZGE2NTUxNDY1N2IwZTViOWRjYWE1NjU0NTgiLCJwIjoiaiJ9)
+You can see the progress here [Jira Link](https://wmvasq1.atlassian.net/jira/software/projects/SPRIN/boards/2/roadmap?shared=&atlOrigin=eyJpIjoiMWI3N2IyZGE2NTUxNDY1N2IwZTViOWRjYWE1NjU0NTgiLCJwIjoiaiJ9)
 
 ## Usage
 
-Once the application is up and running, you can access it at `http://localhost:8080`. The Spring Pet Clinic provides the following functionality:
+Once the application is up and running, you can access it at `http://localhost:8088`. SpringLearningHub provides the following functionality:
 
 Coming soon...
 
