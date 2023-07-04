@@ -1,27 +1,20 @@
-package com.SpringLearningHub.SpringLearningHub;
-
-import com.SpringLearningHub.rest.Controller;
+package com.springlearninghub.service;
 
 import java.util.Arrays;
 import java.util.Comparator;
+import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Service;
 
-import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.context.annotation.ComponentScan;
+@Component
+public class ServiceClass {
 
-@SpringBootApplication
-@ComponentScan(basePackageClasses = Controller.class)
-public class SpringLearningHubApplication {
-
-  public static void main(String[] args) {
-    SpringApplication.run(SpringLearningHubApplication.class, args);
-  }
+  public ServiceClass() {}
 
   //decryptor method
   public String decryptor(String token) {
     String[] arr = token.split("[,: ]");
     String str = "";
-    // create custom comparator 
+    // create custom comparator
     Comparator<String> sumComparator = new Comparator<String>() {
       @Override
       public int compare(String s1, String s2) {
@@ -39,7 +32,7 @@ public class SpringLearningHubApplication {
       }
     };
 
-    // sort 
+    // sort
     Arrays.sort(arr, sumComparator);
 
     for (int i = 0; i < arr.length; i++) {
