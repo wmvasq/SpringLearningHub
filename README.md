@@ -10,7 +10,7 @@ You can see the progress here [Jira Link](https://wmvasq1.atlassian.net/jira/sof
 
 ## Usage
 
-Once the application is up and running, you can access it at `http://localhost:8088`. SpringLearningHub provides the following functionality:
+Once the application is up and running, you can access it at `http://localhost:8088/api/`. SpringLearningHub provides the following functionality:
 
 Decryptor
 
@@ -24,7 +24,7 @@ output:
 hola mundo world hello world
 
 url:
-http://localhost:8088/decryptor?token=he1ll5o,wo2r6ld ho1la2:mu3ndo1
+http://localhost:8088/api/decryptor?token=he1ll5o,wo2r6ld ho1la2:mu3ndo1
 
 ## Project Structure
 
@@ -37,7 +37,9 @@ The project follows a standard Spring Boot structure. Here are the key directori
 
 ## Documentation
 
-Coming soon...
+You can see  the documentation and try the SpringLearningHub's endpoints in the following link
+
+[Swagger UI](http://localhost:8088/swagger-ui/index.html)
 
 ## Contributing
 
