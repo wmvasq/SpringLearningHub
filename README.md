@@ -12,7 +12,19 @@ You can see the progress here [Jira Link](https://wmvasq1.atlassian.net/jira/sof
 
 Once the application is up and running, you can access it at `http://localhost:8088`. SpringLearningHub provides the following functionality:
 
-Coming soon...
+Decryptor
+
+Provided a text string, each word delimited by [,: space] must be separated and if the words contain numbers, each word must be ordered according to the total of the sum from minor to major and the numbers will not be displayed
+
+Example
+
+input: he1ll5o,wo2r6ld ho1la2:mu3ndo1
+
+output:
+hola mundo world hello world
+
+url:
+http://localhost:8088/decryptor?token=he1ll5o,wo2r6ld ho1la2:mu3ndo1
 
 ## Project Structure
 
