@@ -40,6 +40,8 @@ The project follows a standard Spring Boot structure. Here are the key directori
 You can see  the documentation and try the SpringLearningHub's endpoints in the following link
 
 [Swagger UI](http://localhost:8088/swagger-ui/index.html)
+![image]
+(https://github.com/wmvasq/SpringLearningHub/blob/develop/assets/Captura%20desde%202023-07-21%2019-48-55.png)
 
 ## Contributing
 
