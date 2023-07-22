@@ -8,6 +8,9 @@ Welcome to SpringLearningHub. Contains some solved exercises about tests and vid
 ## Project progress
 You can see the progress here [Jira Link](https://wmvasq1.atlassian.net/jira/software/projects/SPRIN/boards/2/roadmap?shared=&atlOrigin=eyJpIjoiMWI3N2IyZGE2NTUxNDY1N2IwZTViOWRjYWE1NjU0NTgiLCJwIjoiaiJ9)
 
+![image](https://github.com/wmvasq/SpringLearningHub/blob/develop/assets/img2.png)
+
+
 ## Usage
 
 Once the application is up and running, you can access it at `http://localhost:8088/api/`. SpringLearningHub provides the following functionality:
@@ -40,8 +43,8 @@ The project follows a standard Spring Boot structure. Here are the key directori
 You can see  the documentation and try the SpringLearningHub's endpoints in the following link
 
 [Swagger UI](http://localhost:8088/swagger-ui/index.html)
-![image]
-(https://github.com/wmvasq/SpringLearningHub/blob/develop/assets/img1.png)
+
+![image](https://github.com/wmvasq/SpringLearningHub/blob/develop/assets/img1.png)
 
 ## Contributing
 
